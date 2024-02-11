@@ -18,8 +18,9 @@ In line with evolving technology, TechConnect remains steadfast in its commitmen
 Company Description:
 ## Mission Statement:
 At MMW&N LLC, We believe that access to technology is a fundamental right, and our platform seeks to empower individuals by providing affordable and accessible technology solutions.
+
 ## Principal Members and Legal Structure:
-NP Knowledge LLC is composed of a dedicated team of professionals with expertise in software development, non-profit management, and technology leadership. The principal members include:
+MMW&N LLC is composed of a dedicated team of professionals with expertise in software development, non-profit management, and technology leadership. The principal members include:
 
 1. Reynold Monestine - CEO, Owner
 
