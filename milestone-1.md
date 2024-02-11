@@ -417,7 +417,7 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
 
 
 ## Team Contract
-[MMW&N Team Contract](https://github.com/cis-famu/design-project-mmw-n/blob/main/MMW%26N%20Team%20Contract.docx)
+[MMW&N Team Contract](https://github.com/cis-famu/design-project-mmw-n/blob/main/MMW%26N%20Team%20Contract.pdf)
 
 ### Goals: 
 
