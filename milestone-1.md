@@ -419,20 +419,19 @@ Inspiration Center, Women's Department Belize, Family Violence Prevention Projec
 ## Team Contract
 [Download Contract](https://github.com/cis-famu/capstone-project-design-exemplar/documents/Team+Contract.pdf)
 
-### GOALS: What are our team goals for this project? What do we want to accomplish? What skills do we want to develop or refine?
+### Goals: 
 
-Our goal is to create an efficient and achievable project plan to follow in the future. Skills that we want to refine and develop are project and time management as well as effective communication and collaboration. We aim to enhance our team's overall productivity and ensure seamless coordination among team members.  
-### EXPECTATIONS: What do we expect of one another in regard to attendance at meetings, participation, frequency of communication, the quality of work, etc.?
+Our goal is to create an efficient and achievable project plan to follow. Skills that we want to refine and develop are project and time management as well as effective communication and collaboration. We aim to enhance our team's overall productivity and ensure seamless coordination among team members.  
+### Expectations: 
 
 We expect transparent and honest communication among team members across every aspect of the project. Regular attendance and consistent participation in meetings and assigned tasks are also anticipated. The standard for work quality should consistently be high.
 
-### POLICIES & PROCEDURES: What rules can we agree on to help us meet our goals and expectations? 
-1.	Frequent meetings to discuss and clarify task.
-2.	Communicate two hours in advance if not able to attend meetings
+### Policies & Procedures:  
+1.	Frequent meetings to discuss and clarify tasks.
+2.	Communicate two hours in advance if you are not able to attend meetings
 3.	Active and respectful participation during meetings to ensure effective collaboration
 
-### CONSEQUENCES: How will we address non-performance in regard to these goals, expectations, policies and procedures? 
-
+### Consequences:
 The team commits to transparent communication if a team member falls short of meeting expectations, and a tally system will be implemented to monitor individual and collective contributions to the project. The system will serve as an objective measure, to identify areas of improvement. It will include meeting attendance and task completion. In the event of accumulating too many tallies, a team meeting will be held to openly discuss and address the challenges or issues contributing to the excessive tallies. 
 
 ## References
