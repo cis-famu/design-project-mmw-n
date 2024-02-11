@@ -1,4 +1,4 @@
-# EmpowerNet - WIN Belize Project
+# MMW&N : TechConnect-Bridging the Digital Divide App
 
 **Table of Contents**
 1. [About the project](#about-the-project)
@@ -8,11 +8,11 @@
     - [Milestone 1](#milestone-1)
 
 # About the Project
-The Women's Issues Network of Belize aims to develop **EmpowerNet**, a robust knowledge base system that centralizes data related to violence against women and other critical information on the status of women from multiple sources. This system will allow employees to input data from various sources regarding violence against women, health issues, and employment. Additinally, it will facilitate the generation of reports and enable seamless searching and retrieval of critical information to enhance decision-making and advocacy efforts for women's empowerment.
+Welcome to **TechConnect**, a transformative initiative aimed at bridging the digital divide by providing underprivileged communities access to mentorship, local resources, and tech-related education. This app serves as a beacon for empowerment, fostering digital literacy, and connecting individuals with opportunities in the digital age.
 
 # Milestones
-In this section we summarize each milestone and link to a more detail document of artifacts for each.
+In this section, we summarize each milestone and link to a more detailed document of artifacts for each.
 
 ## Milestone 1
-In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
+In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create high-level budget and time estimates.
 [Milestone 1 Details](https://github.com/cis-famu/capstone-project-design-exemplar/blob/main/milestone-1.md)
