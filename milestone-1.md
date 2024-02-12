@@ -43,7 +43,13 @@ Underprivileged individuals seeking support and resources, Mentors wanting to pr
 
 **Project Milestones:** Inception Phase: February 2024 - March 2024, Planning and Requirements Gathering: April 2024 - May 2024, Development and Testing: June 2024 - September 2024, Deployment and Launch: October 2024, Ongoing Support and Updates: From November 2024 onwards.
 
-**Major Known Risks:** Availability and commitment of mentors (Medium), Engagement of the app by users (Low), Support of partner companies (High).
+### Major Known Risks
+
+| **Risk** | **Risk Rating (Hi, Med, Lo)** |
+| --- | --- |
+| Availability and commitment of mentors | Medium |
+| Engagement of the app by users | Low |
+| Support of partner companies | High |
 
 **Constraints:** Limited budget allocated for development and maintenance. Also, the fixed project timeline to ensure timely deployment. The project team is limited to a maximum of 10 full-time staff members due to resource availability and budget constraints.
 
@@ -61,6 +67,12 @@ Underprivileged individuals seeking support and resources, Mentors wanting to pr
 | Executive Sponsor: Diane Smith | <i>Signed in document</i> | 2/11/2024 |
 | Department Sponsor: Vanessa Coote | <i>Signed in document</i> | 2/11/2024 |
 | Project Manager: Keisha Moreau | <i>Signed in document</i> | 2/11/2024 |
+
+### 7. Notes
+Regular meetings and updates to ensure alignment and synergy across departments.
+Adjust strategies and tactics as necessary to ensure successful project delivery.
+Continuously iterate and refine the project based on user input to meet their needs and expectations effectively.
+
 
 
 ## SWOT Analysis
