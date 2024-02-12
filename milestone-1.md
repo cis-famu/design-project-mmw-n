@@ -9,7 +9,6 @@
 
 
 ## Project Charter
-## Project Charter
 
 ### 1. General Project Information
 
