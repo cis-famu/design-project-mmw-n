@@ -22,7 +22,7 @@
 
 | **Name** | **Department** | **Telephone** | **E-mail** |
 | --- | --- | --- | --- |
-| Project Manager: | Keisha Moreau | Exec. Management | 774-606-7424 | keisha1.moreau@famu.edu |
+| Keisha Moreau (PM) | Exec. Management | 774-606-7424 | keisha1.moreau@famu.edu |
 | Woodhans Joseph | Design | 786-879-6457 | woodhans1.joseph@famu.edu |
 | Reynold Monestine | Development | 786-553-6684 | reynold1.monestine@famu.edu |
 | Kameron Norwood | Software | 301-247-3455 | kameron1.norwood@famu.edu |
