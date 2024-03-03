@@ -14,75 +14,72 @@
 
 | Task ID | Task Name | Duration (hours) | Start Date | Finish Date | Predecessors |
 |---------|-----------|-----------------|------------|-------------|--------------|
-| 1       | Project Initiation | 8 | 10/01/2023 | 10/02/2023 | - |
-| 1.1     | Define Project Scope and Objectives | 4 | 10/01/2023 | 10/01/2023 | 1 |
-| 1.2     | Identify Project Stakeholders | 4 | 10/02/2023 | 10/02/2023 | 1 |
-| 2       | Requirements Gathering Phase | 40 | 10/03/2023 | 10/09/2023 | 1.1, 1.2 |
-| 2.1     | Define Data Collection Methodologies | 16 | 10/03/2023 | 10/05/2023 | 2 |
-| 2.1.1   | Conduct Interviews with Stakeholders | 8 | 10/03/2023 | 10/04/2023 | 2.1 |
-| 2.1.2   | Collect Survey Responses | 8 | 10/05/2023 | 10/05/2023 | 2.1 |
-| 2.2     | Analyze Legal and Compliance Requirements | 12 | 10/06/2023 | 10/07/2023 | 2.1, 2.1.2 |
-| 2.2.1   | Review Privacy Regulations | 6 | 10/06/2023 | 10/06/2023 | 2.2 |
-| 2.2.2   | Review Security Standards | 6 | 10/07/2023 | 10/07/2023 | 2.2 |
-| 3       | Requirements Analysis and Documentation | 30 | 10/10/2023 | 10/16/2023 | 2.2.2 |
-| 3.1     | Analyze Stakeholder Input | 12 | 10/10/2023 | 10/12/2023 | 3 |
-| 3.1.1   | Analyze Interview Data | 6 | 10/10/2023 | 10/11/2023 | 3.1 |
-| 3.1.2   | Analyze Survey Data | 6 | 10/12/2023 | 10/12/2023 | 3.1 |
-| 3.2     | Document Functional Requirements | 18 | 10/13/2023 | 10/16/2023 | 3.1.1, 3.1.2 |
-| 4       | Database Design and Implementation | 50 | 10/17/2023 | 10/26/2023 | 3.2 |
-| 4.1     | Define Database Schema | 20 | 10/17/2023 | 10/21/2023 | 4 |
-| 4.1.1   | Define Tables and Relationships | 12 | 10/17/2023 | 10/19/2023 | 4.1 |
-| 4.1.2   | Define Data Entry Rules | 8 | 10/20/2023 | 10/21/2023 | 4.1 |
-| 4.2     | Database Implementation | 30 | 10/22/2023 | 10/26/2023 | 4.1.1, 4.1.2 |
-| 4.2.1   | Create Database Tables | 16 | 10/22/2023 | 10/24/2023 | 4.2 |
-| 4.2.2   | Implement Data Entry Rules | 14 | 10/25/2023 | 10/26/2023 | 4.2 |
-| 5       | User Interface Design and Development | 70 | 10/27/2023 | 11/09/2023 | 4.2.2 |
-| 5.1     | Design User Interface Mockups | 30 | 10/27/2023 | 11/02/2023 | 5 |
-| 5.1.1   | Create Mockups for Main Pages | 18 | 10/27/2023 | 10/31/2023 | 5.1 |
-| 5.1.2   | Gather Feedback on Mockups | 12 | 11/01/2023 | 11/02/2023 | 5.1 |
-| 5.2     | Develop User Interface | 40 | 11/03/2023 | 11/09/2023 | 5.1.2 |
-| 5.2.1   | Implement Main Page UI | 24 | 11/03/2023 | 11/07/2023 | 5.2 |
-| 5.2.2   | Implement Feedback-Driven Re visions | 16 | 11/08/2023 | 11/09/2023 | 5.2.1 |
-| 6       | Backend Development | 90 | 11/10/2023 | 11/27/2023 | 5.2.2 |
-| 6.1     | Develop Core System Logic | 40 | 11/10/2023 | 11/17/2023 | 6 |
-| 6.1.1   | Implement User Authentication | 18 | 11/10/2023 | 11/13/2023 | 6.1 |
-| 6.1.2   | Implement Data Handling Functions | 22 | 11/14/2023 | 11/17/2023 | 6.1 |
-| 6.2     | Integrate Database Functionality | 30 | 11/18/2023 | 11/24/2023 | 6.1.2 |
-| 6.2.1   | Integrate User Data Handling | 16 | 11/18/2023 | 11/21/2023 | 6.2 |
-| 6.2.2   | Integrate Reporting Functionality | 14 | 11/22/2023 | 11/24/2023 | 6.2.1 |
-| 6.3     | Implement Security Measures | 20 | 11/25/2023 | 11/27/2023 | 6.2.2 |
-| 7       | Integration and Testing | 50 | 11/28/2023 | 12/10/2023 | 6.3 |
-| 7.1     | Integrate UI, Backend, and Database | 30 | 11/28/2023 | 12/04/2023 | 7 |
-| 7.1.1   | Integrate User Interface and Backend | 18 | 11/28/2023 | 12/01/2023 | 7.1 |
-| 7.1.2   | Integrate Database Functionality | 12 | 12/02/2023 | 12/04/2023 | 7.1.1 |
-| 7.2     | Conduct System Testing | 20 | 12/05/2023 | 12/09/2023 | 7.1.2 |
-| 7.2.1   | Develop Testing Scenarios | 10 | 12/05/2023 | 12/07/2023 | 7.2 |
-| 7.2.2   | Perform System Testing | 10 | 12/08/2023 | 12/09/2023 | 7.2.1 |
-| 7.3     | Bug Fixing and Final Testing | 10 | 12/10/2023 | 12/10/2023 | 7.2.2 |
-| 8       | Security and Compliance Implementation | 30 | 12/11/2023 | 12/15/2023 | 7.3 |
-| 8.1     | Data Encryption and Security Measures | 20 | 12/11/2023 | 12/13/2023 | 8 |
-| 8.2     | Compliance with Privacy Regulations | 10 | 12/14/2023 | 12/15/2023 | 8.1 |
-| 9       | Training Material Development | 20 | 12/16/2023 | 12/19/2023 | 8.2 |
-| 9.1     | Create Training Modules | 10 | 12/16/2023 | 12/18/2023 | 9 |
-| 9.2     | Develop User Guides | 10 | 12/19/2023 | 12/19/2023 | 9.1 |
-| 10      | User Training | 40 | 12/20/2023 | 12/28/2023 | 9.2 |
-| 10.1    | Develop Training Schedule | 15 | 12/20/2023 | 12/23/2023 | 10 |
-| 10.2    | Conduct Training Sessions | 25 | 12/24/2023 | 12/28/2023 | 10.1 |
-| 11      | System Rollout | 20 | 12/29/2023 | 01/01/2024 | 10.2 |
-| 11.1    | Pre-Rollout Checklist | 10 | 12/29/2023 | 12/31/2023 | 11 |
-| 11.2    | Launch System to Users | 10 | 01/01/2024 | 01/01/2024 | 11.1 |
-| 12      | Project Closure and Evaluation | 16 | 01/02/2024 | 01/05/2024 | 11.2 |
-| 12.1    | Evaluate Project Success | 8 | 01/02/2024 | 01/03/2024 | 12 |
-| 12.2    | Document Lessons Learned | 8 | 01/04/2024 | 01/05/2024 | 12.1 |
-| 13      | Documentation and Knowledge Transfer | 36 | 01/06/2024 | 01/10/2024 | 12.2 |
-| 13.1    | Create User Manuals | 16 | 01/06/2024 | 01/08/2024 | 13 |
-| 13.2    | Develop Technical Documentation | 20 | 01/09/2024 | 01/10/2024 | 13.1 |
-| 14      | Post-Implementation Review | 24 | 01/11/2024 | 01/14/2024 | 13.2 |
-| 14.1    | Gather User Feedback | 12 | 01/11/2024 | 01/12/2024 | 14 |
-| 14.2    | Evaluate System Performance | 12 | 01/13/2024 | 01/14/2024 | 14.1 |
-| 15      | Project Closure and Reporting | 20 | 01/15/2024 | 01/19/2024 | 14.2 |
-| 15.1    | Finalize Project Documentation | 10 | 01/15/2024 | 01/17/2024 | 15 |
-| 15.2    | Generate Project Report | 10 | 01/18/2024 | 01/19/2024 | 15.1 |
+| 1       | Project Initiation | 8 | 2/11/24| 2/1124 | - |
+| 2     | Define Project Scope and Objectives | 4 | 2/12/24 | 2/12/24 | 1 |
+| 3     | Identify Project Stakeholders | 2 | 2/12/24 | 2/12/24 | 1 |
+| 4       | Requirements Gathering Phase | 10 | 2/12/24 | 2/13/24 | 2,3 |
+| 5     | Define Data Collection Methodologies | 12 |  2/13/24 | 2/15/24| 4 |
+| 6   | Conduct Interviews with Stakeholders | 8 | 2/15/24|2/16/24 |5 |
+| 7   | Collect Survey Responses | 6 | 2/15/24 |2/15/24 | 5 |
+| 8     | Analyze Legal and Compliance Requirements | 4 | 2/16/24 | 12/16/24 | 5,7 |
+| 9   | Review Privacy Regulations | 4 | 2/16/24 | 2/16/24 |8 |
+| 10   | Review Security Standards | 4 | 10/07/2023 | 10/07/2023 | 8 |
+| 11       | Requirements Analysis and Documentation |10| 10/10/2023 | 10/16/2023 | 10 |
+| 12     | Analyze Stakeholder Input | 5| 10/10/2023 | 10/12/2023 |11 |
+| 13   | Analyze Interview Data | 5 | 10/10/2023 | 10/11/2023 | 12 |
+| 14   | Document Functional Requirements |5 | 10/12/2023 | 10/12/2023 | 13 |
+| 15     | Database Design and Implementation | 60 | 10/13/2023 | 10/16/2023 | 14 |
+| 16     | Define Database Schema |18 | 10/17/2023 | 10/21/2023 |15 |
+|17   | Define Tables and Relationships | 12 | 10/17/2023 | 10/19/2023 | 15|
+| 18   | Define Data Entry Rules | 8 | 10/20/2023 | 10/21/2023 | 17 |
+| 19     | Database Implementation | 20 | 10/22/2023 | 10/26/2023 | 17,18 |
+| 20  | Create Database Tables | 12 | 10/22/2023 | 10/24/2023 | 19 |
+| 21   | Implement Data Entry Rules | 14 | 10/25/2023 | 10/26/2023 | 19|
+| 22       | User Interface Design and Development |80 | 10/27/2023 | 11/09/2023 |21 |
+| 23     | Design User Interface Mockups | 20 | 10/27/2023 | 11/02/2023 | 22 |
+| 24   | Create Mockups for Main Pages | 12 | 10/27/2023 | 10/31/2023 | 23 |
+| 25   | Gather Feedback on Mockups | 8 | 11/01/2023 | 11/02/2023 | 23 |
+| 26     | Develop User Interface | 40 | 11/03/2023 | 11/09/2023 | 25 |
+|27  | Implement Main Page UI | 24 | 11/03/2023 | 11/07/2023 |26 |
+| 28   | Implement Feedback-Driven Re visions | 12 | 11/08/2023 | 11/09/2023 | 27 |
+| 29      | Backend Development | 90 | 11/10/2023 | 11/27/2023 |28 |
+| 30     | Develop Core System Logic | 40 | 11/10/2023 | 11/17/2023 |29 |
+| 31   | Implement User Authentication | 18 | 11/10/2023 | 11/13/2023 | 30 |
+| 32   | Implement Data Handling Functions | 22 | 11/14/2023 | 11/17/2023 | 30 |
+| 33    | Integrate Database Functionality | 30 | 11/18/2023 | 11/24/2023 | 30 |
+| 34  | Integrate User Data Handling | 15 | 11/18/2023 | 11/21/2023 | 33 |
+|35  | Integrate Reporting Functionality | 12 | 11/22/2023 | 11/24/2023 | 34|
+| 36     | Implement Security Measures | 20 | 11/25/2023 | 11/27/2023 | 35 |
+| 37      | Integration and Testing | 50 | 11/28/2023 | 12/10/2023 | 36 |
+| 38    | Integrate UI, Backend, and Database | 30 | 11/28/2023 | 12/04/2023 |37 |
+|39  | Integrate User Interface and Backend | 12 | 11/28/2023 | 12/01/2023 |38 |
+| 40  | Integrate Database Functionality | 12 | 12/02/2023 | 12/04/2023 |39 |
+| 41     | Conduct System Testing | 8 | 12/05/2023 | 12/09/2023 | 40|
+| 42   | Develop Testing Scenarios | 8 | 12/05/2023 | 12/07/2023 | 41 |
+| 43   | Perform System Testing | 8| 12/08/2023 | 12/09/2023 |42|
+| 44    | Bug Fixing and Final Testing | 8 | 12/10/2023 | 12/10/2023 | 43 |
+|  45      | Security and Compliance Implementation | 20 | 12/11/2023 | 12/15/2023 |44 |
+| 46    | Compliance with Privacy Regulations | 8 | 12/14/2023 | 12/15/2023 |45 |
+| 47     | Training Material Development | 8 | 12/16/2023 | 12/19/2023 | 46 |
+| 48   | Create Training Modules | 8 | 12/16/2023 | 12/18/2023 | 47|
+| 49   | Develop User Guides | 8 | 12/19/2023 | 12/19/2023 | 48 |
+| 50     | User Training | 2| 12/20/2023 | 12/28/2023 | 49 |
+| 51   | Develop Training Schedule | 1 | 12/20/2023 | 12/23/2023 | 50 |
+| 52    | Conduct Training Sessions | 1| 12/24/2023 | 12/28/2023 | 51 |
+| 53   | System Rollout | 10 | 12/29/2023 | 01/01/2024 | 52 |
+| 54   | Pre-Rollout Checklist |5 | 12/29/2023 | 12/31/2023 | 53 |
+|55  | Launch System to Users | 8 | 01/01/2024 | 01/01/2024 | 54 |
+|56      | Project Closure and Evaluation |10 | 01/02/2024 | 01/05/2024 | 55|
+| 57    | Evaluate Project Success | 10| 01/02/2024 | 01/03/2024 | 56 |
+| 58   | Document Lessons Learned | 8 | 01/04/2024 | 01/05/2024 | 57 |
+| 59      | Documentation and Knowledge Transfer | 8 | 01/06/2024 | 01/10/2024 | 58|
+| 60   | Create User Manuals | 8 | 01/06/2024 | 01/08/2024 | 59 |
+|61  | Develop Technical Documentation | 10 | 01/09/2024 | 01/10/2024 | 60 |
+| 62      | Post-Implementation Review | 20 | 01/11/2024 | 01/14/2024 | 61 |
+| 63    | Gather User Feedback | 12 | 01/11/2024 | 01/12/2024 | 62|
+| 64      | Project Closure and Reporting | 12 | 01/15/2024 | 01/19/2024 | 63 |
+| 65    | Finalize Project Documentation | 12| 7/25/24 | 7/26/24 | 64|
+| 66    | Generate Project Report | 12 | 7/2624 | 7/29/24 | 65 |
 
 ## Gantt Chart & Network Diagram
 ![gantt chart](/img/wbs(1).png)
