@@ -254,5 +254,24 @@ Certainly! Cultural non-functional requirements are crucial for ensuring the sys
 ## Use Cases Diagram
 
 ## Research on other systems
+Qooper - Qooper partners with companies, universities and non-profits worldwide to start and grow their mentorship programs.
+Customizable Questionnaire & Matching Algorithm
+Use Qooper Profile Form Builder to have participants fill our your questionnaire or select from our templates with professional and personality assessments
+Select matching algorithm criteria and weights
+Import users from HR systems or existing excel sheets
+Curriculum Design & Templates
+Create a guided mentoring experience to train mentors and mentees on the next steps in the program and provide resources from Qooper Library, or add your own
+Linked-In Learning - LinkedIn Learning is an on-demand library of instructional videos covering the latest business, technology and creative skills. It provides personalized course recommendations and is designed to help you achieve your full potential.
 
 ## API Descriptions
+Qooper API:
+
+Description: Qooper is a mentorship and professional development platform that facilitates mentor matching, networking, and skill development.
+Capabilities: The Qooper API enables integration with the Tech Connect mobile application to support mentorship matchmaking functionality. It allows users to register as mentors or mentees, create profiles detailing their skills and interests, and find compatible mentorship matches based on various criteria. The API facilitates communication between mentors and mentees, scheduling mentorship sessions, and tracking progress.
+Example: Integrating the Qooper API into the Tech Connect app enables underprivileged individuals to connect with mentors in the tech industry who can provide guidance, support, and career advice. Users can create mentorship profiles, browse through a database of registered mentors, and request mentorship connections based on their specific needs and goals. The API streamlines the mentorship process, enhancing users' access to valuable mentorship opportunities and fostering their professional development in the tech sector.
+LinkedIn Learning API:
+
+Description: LinkedIn Learning is an online platform offering a vast library of courses and tutorials covering various topics, including technology, business, and professional development.
+Capabilities: The LinkedIn Learning API allows integration with the Tech Connect app to provide access to tech-related educational content. It enables users to search for courses based on their interests and skill levels, view course descriptions and previews, and track their progress.
+Example: By integrating the LinkedIn Learning API, the Tech Connect app offers underprivileged individuals access to a wide range of tech-related courses and tutorials. Users can explore topics such as programming languages, software development, data science, and digital literacy, empowering them to acquire valuable skills and knowledge in the tech field. The API enhances the educational component of the Tech Connect platform, providing users with resources to support their learning and skill development journey.
+
