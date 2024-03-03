@@ -72,12 +72,12 @@
 |56      | Project Closure and Evaluation |10 | 01/02/2024 | 01/05/2024 | 55|
 | 57    | Evaluate Project Success | 10| 01/02/2024 | 01/03/2024 | 56 |
 | 58   | Document Lessons Learned | 8 | 01/04/2024 | 01/05/2024 | 57 |
-| 59      | Documentation and Knowledge Transfer | 8 | 01/06/2024 | 01/10/2024 | 58|
-| 60   | Create User Manuals | 8 | 01/06/2024 | 01/08/2024 | 59 |
-|61  | Develop Technical Documentation | 10 | 01/09/2024 | 01/10/2024 | 60 |
-| 62      | Post-Implementation Review | 20 | 01/11/2024 | 01/14/2024 | 61 |
-| 63    | Gather User Feedback | 12 | 01/11/2024 | 01/12/2024 | 62|
-| 64      | Project Closure and Reporting | 12 | 01/15/2024 | 01/19/2024 | 63 |
+| 59      | Documentation and Knowledge Transfer | 8 |7/12/24 | 7/15/24| 58|
+| 60   | Create User Manuals | 8 | 7/15/24|7/16/24 | 59 |
+|61  | Develop Technical Documentation | 10 | 7/16/24 | 7/17/24 | 60 |
+| 62      | Post-Implementation Review | 20 | 7/17/24 | 7/19/24 | 61 |
+| 63    | Gather User Feedback | 12 | 7/22/24 | 7/23/24 | 62|
+| 64      | Project Closure and Reporting | 12 | 7/23/24 | 7/24/24 | 63 |
 | 65    | Finalize Project Documentation | 12| 7/25/24 | 7/26/24 | 64|
 | 66    | Generate Project Report | 12 | 7/2624 | 7/29/24 | 65 |
 
