@@ -215,7 +215,6 @@ Certainly! Cultural non-functional requirements are crucial for ensuring the sys
 **Major Inputs:**
 - User's preferred tech topics - Selected by the **User**
 - Educational content database - Stored in the **Educational Content database**
-- 
 
 **Major Outputs:**
 - User access to relevant educational materials - Displayed to the **User** on the app.
