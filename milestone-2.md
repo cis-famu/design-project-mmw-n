@@ -260,8 +260,8 @@ Use Qooper Profile Form Builder to have participants fill our your questionnaire
 Select matching algorithm criteria and weights
 Import users from HR systems or existing excel sheets
 Curriculum Design & Templates
-Create a guided mentoring experience to train mentors and mentees on the next steps in the program and provide resources from Qooper Library, or add your own
-Linked-In Learning - LinkedIn Learning is an on-demand library of instructional videos covering the latest business, technology and creative skills. It provides personalized course recommendations and is designed to help you achieve your full potential.
+Create a guided mentoring experience to train mentors and mentees on the next steps in the program and provide resources from Qooper Library, or add your own. 
+Linked-In Learning - LinkedIn Learning is an on-demand library of instructional videos covering the latest business, technology and creative skills. It provides personalized course recommendations and is designed to help you achieve your full potential. Learners can join course-based learning groups, share and recommend courses from inside the learning platform, and watch courses together. Online training platform dashboards can provide managers an easy way to monitor, comment on, and guide their direct report's professional development. 
 
 ## API Descriptions
 Qooper API:
