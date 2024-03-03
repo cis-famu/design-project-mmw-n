@@ -266,31 +266,37 @@ Linked-In Learning - LinkedIn Learning is an on-demand library of instructional 
 
 ## API Descriptions
 Qooper API:
+
 Description: Qooper is a mentorship and professional development platform that facilitates mentor matching, networking, and skill development.
 Capabilities: The Qooper API enables integration with the Tech Connect mobile application to support mentorship matchmaking functionality. It allows users to register as mentors or mentees, create profiles detailing their skills and interests, and find compatible mentorship matches based on various criteria. The API facilitates communication between mentors and mentees, scheduling mentorship sessions, and tracking progress.
 Example: Integrating the Qooper API into the Tech Connect app enables underprivileged individuals to connect with mentors in the tech industry who can provide guidance, support, and career advice. Users can create mentorship profiles, browse through a database of registered mentors, and request mentorship connections based on their specific needs and goals. The API streamlines the mentorship process, enhancing users' access to valuable mentorship opportunities and fostering their professional development in the tech sector.
 
 LinkedIn Learning API:
+
 Description: LinkedIn Learning is an online platform offering a vast library of courses and tutorials covering various topics, including technology, business, and professional development.
 Capabilities: The LinkedIn Learning API allows integration with the Tech Connect app to provide access to tech-related educational content. It enables users to search for courses based on their interests and skill levels, view course descriptions and previews, and track their progress.
 Example: By integrating the LinkedIn Learning API, the Tech Connect app offers underprivileged individuals access to a wide range of tech-related courses and tutorials. Users can explore topics such as programming languages, software development, data science, and digital literacy, empowering them to acquire valuable skills and knowledge in the tech field. The API enhances the educational component of the Tech Connect platform, providing users with resources to support their learning and skill development journey.
 
 Location-Based Services API:
-Description:APIs such Google Maps API or Mapbox API, enable the integration of mapping and geolocation functionalities into the app.
+
+Description: APIs such Google Maps API or Mapbox API, enable the integration of mapping and geolocation functionalities into the app.
 Capabilities: These APIs allow users to search for nearby community organizations, educational institutions, or tech industry partners participating in the Tech Connect program. They can view locations on a map, get directions, and explore points of interest.
 Example: Integrating a location-based services API enables users to easily find resources and events in their local area, enhancing their engagement with the Tech Connect platform and facilitating access to relevant opportunities.
 
 Communication and Collaboration APIs:
+
 Description: Communication APIs like Twilio or SendGrid, facilitate messaging, notifications, and email functionalities within the app.
 Capabilities: These APIs enable the app to send notifications about mentorship matches, upcoming events, or new educational content. They also support communication between users, mentors, and administrators.
 Example: Integrating a communication API enhances user engagement by providing timely updates and facilitating interactions between participants in the Tech Connect program, fostering collaboration and support within the community.
 
 Authentication and User Management APIs:
+
 Description: Firebase Authentication manage user authentication and authorization processes.
 Capabilities: Handle user registration, login, and authentication securely.Also manage user profiles and permissions within the app.
 Example: Integrating an authentication API ensures the security of user accounts and protects sensitive information. It enables users to securely access their profiles, track their progress, and participate in mentorship activities within the Tech Connect platform.
 
 Content Management APIs:
+
 Description: Contentful or WordPress REST API, facilitate the management and delivery of dynamic content within the app.
 Capabilities: These APIs allow us to create, edit, and organize educational content, mentor profiles, and resource listings. They also enable seamless content updates and synchronization across different platforms.
 Example: Integrating a content management API streamlines the management of educational resources and mentor profiles within the Tech Connect app. It empowers administrators to curate relevant content and maintain up-to-date information, ensuring a valuable and engaging user experience for participants.
