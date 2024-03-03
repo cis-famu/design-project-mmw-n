@@ -156,6 +156,99 @@ Certainly! Cultural non-functional requirements are crucial for ensuring the sys
    - The system will support collaborative efforts with local communities, organizations, and cultural leaders to ensure the platform's relevance and effectiveness within the Belizean cultural context.
 
 ## Use Cases
+### Use Case 1: User Registration and Profile Creation
+**Use Case Number:** UC-1  
+**Use Case Name:** User Registration and Profile Creation  
+**Description:** The system allows users to register on the Tech Connect platform, creating a profile to access mentorship, resources, and educational content.  
+**Primary Actor:** User  
+**Priority:** High  
+**Type:** External  
+**Trigger:** User's decision to join the Tech Connect platform
+
+**Major Inputs:**
+- User details (name, contact information) - **User**
+- Desired skills and interests - **User**
+- Educational background - **User**
+
+**Major Outputs:**
+- User profile created in the database - Stored in the **Users database**
+
+**Basic Flow:**
+1. **User** accesses the registration page on the Tech Connect mobile application.
+2. **User** provides necessary information, including name, contact details, skills, and interests.
+3. **User** sets up a password and security information.
+4. **System** validates the information and creates a user profile in the "Users" database.
+5. **User** receives a confirmation email or notification.
+
+### Use Case 2: Mentor-Matching Process
+**Use Case Number:** UC-2  
+**Use Case Name:** Mentor-Matching Process  
+**Description:** The system facilitates the matching of mentors with mentees based on skills, interests, and availability.  
+**Primary Actor:** System  
+**Priority:** High  
+**Type:** Internal  
+**Trigger:** User's request for mentorship
+
+**Major Inputs:**
+- User's skills, interests, and availability -  **User**
+- Mentor database with skills and availability - Stored in the **Mentors database**
+
+**Major Outputs:**
+- Matched mentor and mentee pairs - Notification sent to the **Mentor** & **Mentee**
+
+**Basic Flow:**
+1. **User** expresses the desire for mentorship through the Tech Connect app.
+2. **System** collects the user's skills, interests, and availability.
+3. **System** queries the **Mentors database** for suitable mentors based on criteria.
+4. **System** notifies potential mentors and mentees about the match.
+5. **Mentors** and **Mentees** review each other's profiles and confirm the match.
+
+### Use Case 3: Accessing Educational Content
+**Use Case Number:** UC-3  
+**Use Case Name:** Accessing Educational Content  
+**Description:** The system allows users to access a selection of tech-related educational content on the Tech Connect platform.  
+**Primary Actor:** User  
+**Priority:** High  
+**Type:** External  
+**Trigger:** User's decision to learn
+
+**Major Inputs:**
+- User's preferred tech topics - Selected by the **User**
+- Educational content database - Stored in the **Educational Content database**
+- 
+
+**Major Outputs:**
+- User access to relevant educational materials - Displayed to the **User** on the app.
+
+**Basic Flow:**
+1. **User** navigates to the educational content section on the app.
+2. **User** selects preferred tech topics or courses.
+3. **System** queries the "Educational Content" database for relevant materials.
+4. **System** displays a list of available resources to the **User**.
+5. **User** selects and accesses the chosen educational content.
+
+### Use Case 4: Reporting Technical Issues
+**Use Case Number:** UC-4  
+**Use Case Name:** Reporting Technical Issues  
+**Description:** The system allows users to report any technical issues or glitches they encounter while using the Tech Connect app.  
+**Primary Actor:** User  
+**Priority:** Medium  
+**Type:** External  
+**Trigger:** User encounters a technical problem
+
+**Major Inputs:**
+- User's description of the issue - Entered by the **User**
+- Screenshots or error logs (if applicable) - Uploaded by the **User**
+
+**Major Outputs:**
+- Technical support ticket created - Logged in the **Support Tickets database**
+
+**Basic Flow:**
+1. **User** identifies a technical issue within the app.
+2. **User** accesses the support or help section on the app.
+3. **User** describes the issue and attaches any relevant screenshots or error logs.
+4. **System** generates a technical support ticket.
+5. **User** receives a confirmation message with the ticket number.
 
 
 
