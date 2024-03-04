@@ -130,7 +130,7 @@
    - The system servers can be adjusted and optimized to adapt to the increase of users and input data.
 
 4. **Reliability and Availability:**
-   - The system will have a data backup and recovery in case repurchasing for or system crash.
+   - The system will have a data backup and recovery in case repurchasing for access or system crash.
    - If page fails to load, the page can be restarted.
    - The system will strive for high uptime, aiming for a minimum of 99% availability to ensure users can access the system      whenever needed.
    - The system can allow users to have the option to switch to different languages of their preference.
