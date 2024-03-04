@@ -133,7 +133,8 @@
 4. **Reliability and Availability:**
    - The system will have a data backup and recovery in case repurchasing for or system crash.
    - If page fails to load, the page can be restarted.
-   - The system will strive for high uptime, aiming for a minimum of 99% availability to ensure users can access the system whenever needed.
+   - The system will strive for high uptime, aiming for a minimum of 99% availability to ensure users can access the system      whenever needed.
+   - The system can allow users to have the option to switch to different languages of their preference.
 
 ## Use Cases
 ### Use Case 1: User Registration and Profile Creation
