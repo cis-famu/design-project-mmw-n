@@ -82,9 +82,8 @@
 | 66    | Generate Project Report | 12 | 7/2624 | 7/29/24 | 65 |
 
 ## Gantt Chart & Network Diagram
-![gantt chart](/img/wbs(1).png)
 
-[Downloadable Project Management File](/documents/WIN%20Belize%20Project.mpp)
+[Downloadable Project Management File]([/documents/WIN%20Belize%20Project.mpp](https://github.com/cis-famu/design-project-mmw-n/blob/main/MMW%26N%20WBS.mpp))
 
 ## Requirements
 
