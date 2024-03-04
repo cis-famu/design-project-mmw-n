@@ -95,7 +95,7 @@
    - The system will allow instructors to upload their lesson plans.
 
 2. **Search and Retrieval:**
-   - The system will provide a search functionality enabling users to search for information based on various parameters such as date, category, location, and keywords.
+   - The system will provide a search function to enable users to search for information based on various filters such as         name, subject, year, date, category, location, keywords, etc.
    - The system will allow users to retrieve relevant data efficiently and in a user-friendly format.
 
 3. **Reporting:**
