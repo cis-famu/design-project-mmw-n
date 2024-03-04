@@ -119,7 +119,7 @@
 
 1. **Performance:**
    - The system will respond to user actions swiftly, ensuring minimal latency even during peak usage times.
-   - The system will support a large number of concurrent users without a significant degradation in performance.
+   - The system will support a large number of concurrent users without a significant decrease in performance.
      
 2. **Security:**
    - The system will have data security and encryption to protect users’ payment information.
