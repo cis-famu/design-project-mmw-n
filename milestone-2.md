@@ -127,8 +127,7 @@
    - The system will implement user authentication and access controls to prevent unauthorized access and maintain confidentiality.
 
 3. **Scalability:**
-   - The system will be designed to scale seamlessly as the volume of data and user base grows, ensuring continued performance and reliability.
-   - The system servers can be adjusted and optimized to adapt to the increase of users
+   - The system servers can be adjusted and optimized to adapt to the increase of users and input data.
 
 4. **Reliability and Availability:**
    - The system will have a data backup and recovery in case repurchasing for or system crash.
