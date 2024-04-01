@@ -121,6 +121,7 @@ FAX # (	)
 
 
 ## Style Guide
+[Tech Connect](https://www.figma.com/file/qWg22vb8cD4w0JL3ygX7mo/Tech-Connect?type=design&node-id=0-1&mode=design&t=hqyrTO9GqfxDsx4i-0)
 
 
 ## Marketing Material
