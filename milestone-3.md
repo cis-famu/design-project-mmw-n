@@ -122,7 +122,8 @@ FAX # (	)
 
 ## Style Guide
 [Tech Connect](https://www.figma.com/file/qWg22vb8cD4w0JL3ygX7mo/Tech-Connect?type=design&node-id=0-1&mode=design&t=hqyrTO9GqfxDsx4i-0)
-
+![page 1](https://github.com/cis-famu/design-project-mmw-n/assets/103545946/2f7dbaaa-4a8b-4e35-b8bb-15e863dce047)
+![page 2](https://github.com/cis-famu/design-project-mmw-n/assets/103545946/7dee9c1d-0be9-446c-9638-38c9dd47cbcd)
 
 ## Marketing Material
 
@@ -130,3 +131,4 @@ FAX # (	)
 ## Interactive Wireframe
 
 [Tech Connect](https://www.figma.com/file/qWg22vb8cD4w0JL3ygX7mo/Tech-Connect?type=design&node-id=0%3A1&mode=design&t=W2iiMPiNPjOSFRJt-1)
+
