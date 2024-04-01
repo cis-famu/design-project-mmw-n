@@ -22,4 +22,4 @@
 
 ## Interactive Wireframe
 
-[Tech Connect][(https://www.figma.com/file/qWg22vb8cD4w0JL3ygX7mo/Tech-Connect?type=design&node-id=0%3A1&mode=design&t=W2iiMPiNPjOSFRJt-1)]
+[Tech Connect](https://www.figma.com/file/qWg22vb8cD4w0JL3ygX7mo/Tech-Connect?type=design&node-id=0%3A1&mode=design&t=W2iiMPiNPjOSFRJt-1)
