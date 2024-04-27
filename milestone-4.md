@@ -33,13 +33,14 @@
 1. **Reynold Monestine**
  - Through the project design process, I gained valuable insights into project management, growing to understand the importance of effective communication and teamwork. While successfully completing tasks, I realized the significance of dedicating more time to brainstorming sessions for innovative ideas. In the future, I aim to prioritize early collaboration and establish structured meeting schedules to enhance project outcomes and management positions.
 
-
+2. **Keisha Moreau**
+ -  During this project, I learned invaluable lessons about project management. I gained hands-on experience in gathering requirements effectively and creating comprehensive project plans using tools like Gantt charts and work breakdown structures. Additionally, I discovered the importance of collaboration and communication between team members in ensuring project success. 
 
 
 
 
 
 ## Poster Presentation
-
+[TechConnect Poster]()
 
 
