@@ -24,8 +24,7 @@
 
 
 ## Data Dictionary
-[Download Data Dictionary]
-(https://github.com/cis-famu/design-project-mmw-n/edit/main/milestone-4.md)
+[Download Data Dictionary](https://github.com/cis-famu/design-project-mmw-n/blob/main/Data%20Dictionary.docx)
 
 
 ## Updated DFDs
