@@ -24,3 +24,7 @@ In this milestone we continue with planning actives. We outline our tasks using 
 ## Milestone 3
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates. 
 [Milestone 3 Details](https://github.com/cis-famu/design-project-mmw-n/blob/main/milestone-3.md)
+
+## Milestone 4
+In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates. 
+[Milestone 3 Details](https://github.com/cis-famu/design-project-mmw-n/blob/main/milestone-3.md)
