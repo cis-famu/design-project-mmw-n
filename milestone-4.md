@@ -41,6 +41,6 @@
 
 
 ## Poster Presentation
-[TechConnect Poster]()
+[Download TechConnect Poster](https://github.com/cis-famu/design-project-mmw-n/blob/main/TechConnect%20Poster.pptx)
 
 
