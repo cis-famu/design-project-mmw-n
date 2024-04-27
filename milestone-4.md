@@ -30,6 +30,13 @@
 
 
 ## Lessons Learned Report
+1. **Reynold Monestine**
+ - Through the project design process, I gained valuable insights into project management, growing to understand the importance of effective communication and teamwork. While successfully completing tasks, I realized the significance of dedicating more time to brainstorming sessions for innovative ideas. In the future, I aim to prioritize early collaboration and establish structured meeting schedules to enhance project outcomes and management positions.
+
+
+
+
+
 
 
 ## Poster Presentation
