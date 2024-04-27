@@ -1,9 +1,9 @@
 
-[# Milestone 4
+# Milestone 4
 
 **Table of Contents**
 
- 1.[Risk Register](risk-registers)
+1. [Risk Register](risk-registers)
 
 2. [Collection Relationship Diagram](#collection-relationship-diagram)
    
