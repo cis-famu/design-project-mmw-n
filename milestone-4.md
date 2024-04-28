@@ -19,7 +19,7 @@
 [Download Risk Register](https://github.com/cis-famu/design-project-mmw-n/blob/main/Risk%20register.xlsx)
 
 ## Collection Relationship Diagram
-
+[Collection Relationship Diagram](https://github.com/cis-famu/design-project-mmw-n/blob/main/Collection%20Relationship%20Diagram.docx)
 
 
 ## Data Dictionary
